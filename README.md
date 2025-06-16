@@ -1,2 +1,2 @@
 # cybersparksystems.
-Official website of CyberSpark Systems by Musab bin Tahir Khan
+Official website of cybersparkSystems by Musab bin Tahir Khan
